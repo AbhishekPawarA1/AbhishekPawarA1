@@ -1,7 +1,7 @@
 Frontend development isn't just coding; it's creating a world users can see, touch, and feel.                                                                         
                                                                                                                                                                       
 👋 Hi, I’m Abhishek Pawar                                                                                                                                             
-👀 I’m interested in Frontend Development                                                                                                                             
+👀 I’m interested in Full Stack Web Developer                                                                                                                            
 🌱 I’m currently learning React.js and modern UI/UX principles                                                                                                        
 💞️ I’m looking to collaborate on frontend projects or open-source contributions                                                                                       
 📫 How to reach me: abhishekanandpawar1@gmail.com                                                                                                                     
