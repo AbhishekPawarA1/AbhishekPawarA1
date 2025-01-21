@@ -8,7 +8,7 @@ Frontend development isn't just coding; it's creating a world users can see, tou
 😄 Pronouns: He/Him                                                                                                                                                   
 ⚡ Fun fact: I believe every website tells a story, and I love designing pages that speak!   
 
-🔗 Connect with me on LinkedIn: [https://www.linkedin.com/in/abhiishek-pawar/]
+🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/abhiishek-pawar/
 <!---
 AbhishekPawarA1/AbhishekPawarA1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
